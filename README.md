@@ -16,8 +16,8 @@
 # ***PROJECTS***
 ### 1:MULTIVENDOR ECOMMERCE
 #### languags or tools i used
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/> 
 <img src="https://img.icons8.com/color/48/000000/php.png"/>
 <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
